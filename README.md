@@ -55,7 +55,6 @@ In order to compute the option price and early exercise's time, I use back propa
 model, which is written in the Env setting code. After fitting the Env model, one can apply agent algorithm.
 
 # Algorithm Code
-*Plz Check .ipynb file to see the algorithm running results.*
 
 ## REINFORCE (VPG)
 I use simple neural network as the policy function approximation. The algorithm contains two parts: 
@@ -67,6 +66,8 @@ The DQN code contains three parts: Replay buffer, Network setting and DQN agent.
 The DQN running result converges badly, I guess it's because the batch size is too small and 
 the episode num is not big enough, or just because the reward setting is not wise enough. Therefore, the
  DQN algorithm still needs to improve.
+
+*Plz Check [ipynb](test0507.ipynb) file to see the algorithm running results.*
 
 # Future Works:
 Apply other Algorithms like:
