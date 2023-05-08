@@ -21,8 +21,8 @@ and its Book GitHub link:
 [Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathmatical-Foundation-of-Reinforcement-Learning)
 
 - The code of the algorithms reference following sources:
-[Pytorch tutorial](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
-[OpenAI Spinning up Algorithms Doc](https://spinningup.openai.com/en/latest/algorithms/vpg.html)
+  - [Pytorch RL tutorial](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
+  - [OpenAI Spinning up Algorithms Doc](https://spinningup.openai.com/en/latest/algorithms/vpg.html)
 
 _Attention: there may be some errors in the algorithm code, since I'm still a beginner
 in RL, please raise issue if you find sth wrong._
